@@ -1,9 +1,12 @@
 # rock-Spock-paper-lizard-scissors
 Implementation of rock-Spock-paper-lizard-scissors
 
-Inspired by Sheldon Cooper from The Big Bang Theory.
+-->Inspired by Sheldon Cooper from The Big Bang Theory.
 
 RULE:
+
+--------------
+
 Scissors cuts Paper
 
 Paper covers Rock
